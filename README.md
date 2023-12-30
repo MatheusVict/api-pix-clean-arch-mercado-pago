@@ -57,7 +57,7 @@ mvn verify
 
 ## Routes
 ```http request
-POST /api/v1/pix
+POST /v1/pix
 ```
 
 body:
